@@ -79,5 +79,5 @@ theme: next #landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://github.com/aidanbin/aidanbin.github.io.git
+  repo: git@github.com:aidanbin/aidanbin.github.io.git
   branch: master
