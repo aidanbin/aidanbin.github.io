@@ -1,4 +1,4 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -81,3 +81,9 @@ deploy:
   type: git
   repo: git@github.com:aidanbin/aidanbin.github.io.git
   branch: master
+
+# Wechat Subscriber
+wechat_subscriber:
+  enabled: false
+  qcode: /uploads/wechat-qcode.png
+  description: 欢迎您扫一扫上面的微信！
